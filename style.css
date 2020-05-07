@@ -49,9 +49,14 @@ margin: 20px auto;
 	font-weight: bold;
 	font-size: 15px;
 }
-.number, .empty{
+.number{
 	background-color: #eaedef;
 }
+
+.empty{
+ background-color: black;
+}
+
 .number, .operator{
 	cursor: pointer;
 }
